@@ -1,3 +1,20 @@
+print("""
+     .---------------------.
+    |  _________________  |
+    | |               0 | |
+    | |_________________| |
+    |  _______________    |
+    | |  7 |  8 |  9 | + |
+    | |____|____|____|___|
+    | |  4 |  5 |  6 | - |
+    | |____|____|____|___|
+    | |  1 |  2 |  3 | x |
+    | |____|____|____|___|
+    | |       0       | ÷ |
+    | |_______________|___|
+    |_____________________|
+""")
+
 number1=int(input("Enter the first number\t"))
 number2=int(input("Enter the second number\t"))
 print("***The operetors***\n Addition-      '+'\n Subtraction-   '-'\n Multiplaction- '*'\n Division-      '/'\n Floor Division-'//'\n Modulo-        '%'\n Power-         '**'\n")
