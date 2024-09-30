@@ -9,8 +9,7 @@ In this program I used if else statement which helps to check operators to perfo
 ```bash
 git clone https://github.com/umarsharook/Calculator.git
 
-```bash
-cd Calculator
+> cd Calculator
 
 > ls
 
